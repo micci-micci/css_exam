@@ -41,13 +41,13 @@ a {
 .main_content {
   display: flex;
 }
-.main_content .relative {
+.main_content .wrapper {
   position: relative;
   width: 100%;
   margin: 0;
   padding: 0;
 }
-.main_content .relative p {
+.main_content .wrapper p {
   position: absolute;
   width: 100%;
   font-size: 3em;
